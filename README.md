@@ -19,7 +19,7 @@ Backend developer working on improve myself <br>🔭 I’m currently working on 
 ![](https://github-profile-trophy.vercel.app/?username=asdasd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 # <br>
 ### ✍️ Random Dev Quote
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical))
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
