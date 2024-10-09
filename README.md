@@ -1,4 +1,6 @@
 # 💫 About Me:
+I am a dedicated and results-driven software developer with a deep passion for technology and continuous learning. I thrive in dynamic environments where I can apply my problem-solving skills and collaborate with teams to create innovative and efficient software solutions. With a strong foundation in backend development, I excel at designing and implementing scalable, reliable systems. I am committed to staying ahead of the curve by learning new technologies and enhancing my existing skills, ensuring that I contribute meaningful value to any project or organization I’m part of.
+
 Backend developer working on improve myself <br>🔭 I’m currently working on a projects in spring <br>
 #<br>
 # 💻 Tech skills:
